@@ -19,6 +19,19 @@ A clean, efficient Android application designed to help users manage their daily
 
 
 ---
+## 📸 Screenshots
+
+| Home Screen | Add Note | Update Note |
+| :---: | :---: | :---: |
+| <img width="348" height="747" alt="image" src="https://github.com/user-attachments/assets/a3453ef6-ed8d-4d0f-b6e1-e228fd7316ae" />| <img width="343" height="744" alt="image" src="https://github.com/user-attachments/assets/be9c4f4d-1278-4c6a-91eb-cfc8f7c87056" /> | <img width="345" height="736" alt="image" src="https://github.com/user-attachments/assets/bed2a3f5-c3f9-4b71-8c3d-74c61efeb361" /> |
+
+| Delete Dialog | Empty State |
+| :---: | :---: |
+| <img width="345" height="747" alt="image" src="https://github.com/user-attachments/assets/60f729cb-8828-44ad-9795-ddd9004ccae0" />| <img width="343" height="747" alt="image" src="https://github.com/user-attachments/assets/c51eaa5c-c5c5-4096-bcc8-695b4072f7e8" />
+ |
+
+
+---
 
 ## 🛠 Tech Stack
 
