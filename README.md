@@ -28,7 +28,6 @@ A clean, efficient Android application designed to help users manage their daily
 | Delete Dialog | Empty State |
 | :---: | :---: |
 | <img width="345" height="747" alt="image" src="https://github.com/user-attachments/assets/60f729cb-8828-44ad-9795-ddd9004ccae0" />| <img width="343" height="747" alt="image" src="https://github.com/user-attachments/assets/c51eaa5c-c5c5-4096-bcc8-695b4072f7e8" />
- |
 
 
 ---
